@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jalswan/testing.git"
+  },
+  "author": "Jason Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalswan/testing/issues"
+  },
+  "homepage": "https://github.com/jalswan/testing#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
