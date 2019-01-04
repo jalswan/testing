@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jalswan/testing#readme",
   "dependencies": {
+    "dexie": "^2.0.4",
     "jquery": "^3.3.1"
   }
 }
